@@ -1,0 +1,33 @@
+body {
+    background-color: #000000;
+    font-family: arial black;
+    width: inherit;
+    height: inherit;
+}
+
+h1 {
+    text-shadow: -2px .5px 9px rgb(255, 255, 255, 1);
+    font-size: 190px;
+    color: white;
+    margin: -10px;
+
+}
+
+#center {
+    float: left;
+    position: relative;
+    left: 50%;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#lame {
+    float: left;
+    position: relative;
+    left: -50%;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*smd you ugly fuck*/
